@@ -1,0 +1,6 @@
+six
+debug-log
+pybloomfiltermmap
+jieba
+mmh3
+redis
